@@ -26,6 +26,6 @@ Map 03:
 [![Map 03](https://img.youtube.com/vi/tQrX_MZRQKg/maxresdefault.jpg)](https://youtu.be/tQrX_MZRQKg)
 
 
-## Nota
+### Nota
 Para ejecutar la simulación, cargar el plugin "my_wheels.cc" y el mapa deseado en formato .xml encontrado en las respectivas carpetas de mapas:
   GAZEBO_PLUGIN_PATH=/ruta/a/plugin/build gazebo --verbose --pause map.world.xml
