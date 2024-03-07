@@ -15,12 +15,16 @@ Navegación del robot siguiendo la trayectoria óptima (línea recta más corta)
 ## Enlaces a las demos
 Map 01: 
 
-
 [![Map 01](https://img.youtube.com/vi/pVIRoC8IoFs/maxresdefault.jpg)](https://youtu.be/pVIRoC8IoFs)
 
-Map 02: https://youtu.be/4EXPUBPAt-8
+Map 02:
 
-Map 03: https://youtu.be/tQrX_MZRQKg
+[![Map 02](https://img.youtube.com/vi/4EXPUBPAt-8/maxresdefault.jpg)](https://youtu.be/4EXPUBPAt-8)
+
+Map 03:
+
+[![Map 03](https://img.youtube.com/vi/tQrX_MZRQKg/maxresdefault.jpg)](https://youtu.be/tQrX_MZRQKg)
+
 
 ## Nota
 Para ejecutar la simulación, cargar el plugin "my_wheels.cc" y el mapa deseado en formato .xml encontrado en las respectivas carpetas de mapas:
