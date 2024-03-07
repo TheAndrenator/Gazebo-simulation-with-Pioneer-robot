@@ -1,5 +1,5 @@
 # PRÁCTICA DE GAZEBO
------ Andrés Gracia Guillén
+Andrés Gracia Guillén
 
 
 ## Plugin "my_wheels":
